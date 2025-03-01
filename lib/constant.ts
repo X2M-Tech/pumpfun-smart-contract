@@ -4,8 +4,8 @@ import { Cluster, PublicKey } from "@solana/web3.js";
 export const SEED_CONFIG = "config";
 export const SEED_BONDING_CURVE = "bonding_curve";
 
-export const TEST_NAME = "asaasin 1";
-export const TEST_SYMBOL = "sin 1";
+export const TEST_NAME = "plpix";
+export const TEST_SYMBOL = "ppx";
 export const TEST_URI =
   "https://ipfs.io/ipfs/QmWVzSC1ZTFiBYFiZZ6QivGUZ9awPJwqZECSFL1UD4gitC";
 export const TEST_VIRTUAL_RESERVES = 15_000_000_000;

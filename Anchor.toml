@@ -5,13 +5,13 @@ resolution = true
 skip-lint = false
 
 [programs.mainnet]
-pump_meteora = "9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw"
+pump_meteora = "eUFtRZ6B9jPRDmxgZL2CKjWUxCYLcR5B9LCc437KtXU"
 
 [programs.devnet]
-pump_meteora = "9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw"
+pump_meteora = "eUFtRZ6B9jPRDmxgZL2CKjWUxCYLcR5B9LCc437KtXU"
 
 [programs.localnet]
-pump_meteora = "9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw"
+pump_meteora = "eUFtRZ6B9jPRDmxgZL2CKjWUxCYLcR5B9LCc437KtXU"
 
 [registry]
 url = "https://api.apr.dev"

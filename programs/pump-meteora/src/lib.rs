@@ -9,7 +9,7 @@ pub mod utils;
 use instructions::{configure::*, create_bonding_curve::*, create_pool::*, lock_pool::*, swap::*};
 use state::config::*;
 
-declare_id!("9MHPjXpZXgJrB4NiJVFStE5qy7Nqp7yaYpaqNe5jNfMw");
+declare_id!("eUFtRZ6B9jPRDmxgZL2CKjWUxCYLcR5B9LCc437KtXU");
 
 #[program]
 pub mod pump_meteora {
